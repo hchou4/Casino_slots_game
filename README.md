@@ -2,9 +2,9 @@
 fa21-final-project-group_15 created by GitHub Classroom
 
 **Team member responsibility**<br>
-**Hai Chou ** <br>
+**Harry Chou ** <br>
 I responsible mainly of the main user interface, tone generation, and game logic. <br>
-I responsible for the 3 files below.<br>
+I responsible for the 3 files below under Driver and Application folder.<br>
 main_video_test.cpp, 
 vga_core.cpp, 
 vga_core.h
